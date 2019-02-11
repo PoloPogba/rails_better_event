@@ -1,0 +1,1 @@
+# rails_better_event
